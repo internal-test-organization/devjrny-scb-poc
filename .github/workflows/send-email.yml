@@ -28,9 +28,6 @@ jobs:
           secure: true
           # Optional plain body:
           body: Hi Suripa! Email has been triggered successfully,
-                Regards,
-                Pradipta
-
           # Optional carbon copy recipients:
           cc: pradipta.chatterjee98@gmail.com
           # Optional blind carbon copy recipients:
