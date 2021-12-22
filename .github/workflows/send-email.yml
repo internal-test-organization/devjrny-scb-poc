@@ -4,7 +4,7 @@ on : push
 
 jobs: 
   send_mail : 
-    runs on : Ubuntu-latest
+    runs-on : Ubuntu-latest
     
     steps:
       - name: Send mail
